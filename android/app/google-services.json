@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "895267039259",
+    "firebase_url": "https://geolocalizacion-7d6c3.firebaseio.com",
+    "project_id": "geolocalizacion-7d6c3",
+    "storage_bucket": "geolocalizacion-7d6c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895267039259:android:d7e4c41a34398232",
+        "android_client_info": {
+          "package_name": "com.localization"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "895267039259-tdt54tiqlhqo9v9rsesrs4nv2j79qknf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQx5YjL0sxd90r7ZzBiUu51FJbrEi5Kcs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
